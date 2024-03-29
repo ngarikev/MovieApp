@@ -34,8 +34,8 @@ function Hero() {
       <div className='container ms-4 position-absolute text-white  content'>
         <h1 className='header-title'>John Wick 3 : </h1> <h1 className='header-title'>Parabellum</h1>
         <div className='d-flex mt-3-lg'>
-          <img src={imobIcon} className='img-fluid img-1' alt='imob' /> <span className='mx-2 mt-1 span'>86.0 / 100</span>
-          <img src={pngItem} className='img-fluid img-2 ms-5' alt='imob' /> <span className='mx-2 mt-1 span'>98%</span>
+          <img src={imobIcon} className='img-fluid img-1' alt='imob' /> <span className='mx-2  span'>86.0 / 100</span>
+          <img src={pngItem} className='img-fluid img-2 ms-5' alt='imob' /> <span className='mx-2  span'>98%</span>
         </div>
         <p className='col-9 col-md-4 mt-2 para'>John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.</p>
         <img src={playIcon} className='img-fluid img-2 mb-2' alt='playicon' />
